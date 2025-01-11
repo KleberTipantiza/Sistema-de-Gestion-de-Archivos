@@ -13,7 +13,9 @@ Java
 Metodo de ejecucion
 
 Clone el repositorio a su máquina local:
+
 git clone https://github.com/KleberTipantiza/Sistema-de-Gestion-de-Archivos.git
+
 Ejecute el proyecto en su entorno de desarrollo favorito, para este caso se recommienda el uso del IDE Eclipse.
 
 Uso
