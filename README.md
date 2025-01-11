@@ -19,10 +19,12 @@ Ejecute el proyecto en su entorno de desarrollo favorito, para este caso se reco
 Uso
 
 Al iniciar el programa, se te mostrará un menú con las siguientes opciones:
+
 - Agregar tarea
 - Marcar tarea como completada
 - Eliminar tarea
 - Ver tareas pendientes
 - Ver próxima tarea
 - Salir
+
 Selecciona la opción correspondiente utilizando el número asociado.
